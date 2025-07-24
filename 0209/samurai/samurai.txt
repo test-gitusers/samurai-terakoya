@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="test.css">
+</head>
+<body>
+<img src="img/リスのアイコンですたい。.jpeg" alt="">
+<img src="https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2025/7/21/5d9917435dae4f2be8dcb515240ee2dc9e59ef19cc793186ac88e6874e2eabb0.jpg?h=200&w=200&pri=l&fmt=webp"
+alt="">
+</body>
+</html>
